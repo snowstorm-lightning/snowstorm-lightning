@@ -8,6 +8,6 @@
 snowstorm-lightning/snowstorm-lightning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-now add something
-for exampe
-3 new lines.
+now add something as my first try for Github.
+for example
+add 3 new lines.
